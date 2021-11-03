@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello World! DevOps foundation course--Demo</h2>
+<h2>Welcome to web app</h2>
 </body>
 </html>
