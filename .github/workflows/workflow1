@@ -1,8 +1,8 @@
 name: Maven CI
 
 on:
-  pull_request:
-    branches: [ "master" ]
+  push:
+    branches: [ "srmohanram-patch-1" ]
 
 jobs:
   build:
